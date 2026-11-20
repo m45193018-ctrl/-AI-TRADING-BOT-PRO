@@ -1,0 +1,2 @@
+entrypoint = "server.js"
+run = "npm start"
